@@ -51,7 +51,7 @@ p {
 
 /*================== Main title Starts ============*/
 .main-title-wrapper{
-  background-image: url("https://pici1985.github.io/NewestPortfolio/img/responsive_grey.jpg");
+  background-image: url("./NewestPortfolio/img/responsive_grey.jpg");
   background-size: cover;
   background-position: center;
   height: 60vh;
