@@ -115,7 +115,7 @@ p.lead {
 
 /*================== Main title Starts ============*/
 .main-title-wrapper{
-  background-image: url(/img/carousel/responsive_grey.jpg);
+  background-image: url(/img/carousel/responsive.jpg);
   background-size: cover;
   background-position: bottom;
   height: 60vh;
