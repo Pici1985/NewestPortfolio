@@ -49,73 +49,9 @@ p {
   color: white!important; 
 }
 
-
-/*============= CAROUSEL =============*/
-/* .carousel-item {
-  position: relative;
-}
-
-.carousel-inner {
-  max-height: 35rem!important;
-}
-
-
-/*---Change Carousel Transition Speed --
-.carousel-item-next,
-.carousel-item-prev,
-.carousel-item.active {
- transition: transform 1.2s ease;  
-}
-
-.carousel-indicators li {
-  width: 40px;
-  height: 5px;
-  margin-left: 4px;
-  margin-right: 4px;   
-}
-
-.carousel-indicators li.active {
-  background-color: rgb(14, 116, 1);
-  max-height: 5px;
-}
-
-
-/*-- Carousel Content --
-.carousel-caption {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%); 
-}
-
-.bg-dark {
-  background-color: rgba(0, 0, 0, .5)!important;
-  border-radius: 1.5rem;
-  padding: 1rem;
-}
-
-.bg-white {
-  background-color: rgba(255, 255, 255, .5)!important;
-  border-radius: 1.5rem;
-  padding: 1rem;
-}
-
-.codespan {
-  font-family: 'Orbitron';
-  font-size: 1.4rem;
-}
-
-.carousel-caption h3 {
-  font-size: 2.3rem;
-  font-weight: 300;  
-}
-
-p.lead {
-  font-size: 1.4rem;
-} */
-
 /*================== Main title Starts ============*/
 .main-title-wrapper{
-  background-image: url(/img/responsive_grey.jpg);
+  background-image: url(../img/responsive_grey.jpg);
   background-size: cover;
   background-position: center;
   height: 60vh;
