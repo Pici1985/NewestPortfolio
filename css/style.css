@@ -117,7 +117,7 @@ p.lead {
 .main-title-wrapper{
   background-image: url(/img/carousel/responsive.jpg);
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   height: 60vh;
   margin-top: -50px;
   display: flex;
