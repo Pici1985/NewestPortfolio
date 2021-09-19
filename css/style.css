@@ -51,7 +51,7 @@ p {
 
 
 /*============= CAROUSEL =============*/
-.carousel-item {
+/* .carousel-item {
   position: relative;
 }
 
@@ -60,7 +60,7 @@ p {
 }
 
 
-/*---Change Carousel Transition Speed --*/
+/*---Change Carousel Transition Speed --
 .carousel-item-next,
 .carousel-item-prev,
 .carousel-item.active {
@@ -80,7 +80,7 @@ p {
 }
 
 
-/*-- Carousel Content --*/
+/*-- Carousel Content --
 .carousel-caption {
   position: absolute;
   top: 50%;
@@ -111,7 +111,7 @@ p {
 
 p.lead {
   font-size: 1.4rem;
-}
+} */
 
 /*================== Main title Starts ============*/
 .main-title-wrapper{
