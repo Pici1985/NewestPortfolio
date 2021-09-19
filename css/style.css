@@ -51,7 +51,7 @@ p {
 
 /*================== Main title Starts ============*/
 .main-title-wrapper{
-  background-image: url(/img/responsive_grey.jpg);
+  background-image: url(./img/responsive_grey.jpg);
   background-size: cover;
   background-position: center;
   height: 60vh;
